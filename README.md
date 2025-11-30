@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="[https://github.com/Ankit871331/blob/main/profile-image.png](https://imgs.search.brave.com/SIMvGfDHha-EB33bYYp_v1M4licuMDZ1Qsdv9dys4O4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9pbGx1/c3RyYXRpb24teW91/bmctbWFuLWNvZGlu/Zy1sYXRlLW5pZ2h0/LWZyb250LXR3by1j/b21wdXRlci1zY3Jl/ZW5zLWZpbGxlZC1j/b2RlLWRhdGEtdmlz/dWFsaXphdGlvbnMt/NDA1MTQ2MTIzLmpw/Zw)" width="full" ">
+<img src="https://imgs.search.brave.com/SIMvGfDHha-EB33bYYp_v1M4licuMDZ1Qsdv9dys4O4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aHVtYnMuZHJlYW1zdGltZS5jb20vYi9pbGx1c3RyYXRpb24teW91bmctbWFuLWNvZGluZy1sYXRlLW5pZ2h0LWZyb250LXR3by1jb21wdXRlci1zY3JlZW5zLWZpbGxlZC1jb2RlLWRhdGEtdmlzdWFsaXphdGlvbnMtNDA1MTQ2MTIzLmpwZw" width="100%" alt="">
+
 </p>
 
 <h1 align="center">Hi, I'm Ankit 👋</h1>
@@ -29,12 +30,7 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankit871331&show_icons=true&theme=radical" alt="Ankit's GitHub Stats" />
-</p>
 
----
 
 ## 📫 Connect with Me
 <p align="center">
@@ -49,6 +45,3 @@
   </a>
 </p>
 
----
-
-> "Code is like humor. When you have to explain it, it’s bad." 😄
