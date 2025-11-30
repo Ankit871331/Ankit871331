@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Ankit871331/blob/main/profile-image.png" width="150" style="border-radius:50%;">
+  <img src="[https://github.com/Ankit871331/blob/main/profile-image.png](https://imgs.search.brave.com/SIMvGfDHha-EB33bYYp_v1M4licuMDZ1Qsdv9dys4O4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9pbGx1/c3RyYXRpb24teW91/bmctbWFuLWNvZGlu/Zy1sYXRlLW5pZ2h0/LWZyb250LXR3by1j/b21wdXRlci1zY3Jl/ZW5zLWZpbGxlZC1j/b2RlLWRhdGEtdmlz/dWFsaXphdGlvbnMt/NDA1MTQ2MTIzLmpw/Zw)" width="full" ">
 </p>
 
 <h1 align="center">Hi, I'm Ankit 👋</h1>
