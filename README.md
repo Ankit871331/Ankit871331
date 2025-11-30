@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Ankit871331/Ankit871331/blob/main/profile-image.png" width="150" style="border-radius:50%;">
+  <img src="https://github.com/Ankit871331/blob/main/profile-image.png" width="150" style="border-radius:50%;">
 </p>
 
 <h1 align="center">Hi, I'm Ankit 👋</h1>
