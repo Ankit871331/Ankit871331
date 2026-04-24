@@ -1,47 +1,60 @@
 <p align="center">
-<img src="https://imgs.search.brave.com/SIMvGfDHha-EB33bYYp_v1M4licuMDZ1Qsdv9dys4O4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aHVtYnMuZHJlYW1zdGltZS5jb20vYi9pbGx1c3RyYXRpb24teW91bmctbWFuLWNvZGluZy1sYXRlLW5pZ2h0LWZyb250LXR3by1jb21wdXRlci1zY3JlZW5zLWZpbGxlZC1jb2RlLWRhdGEtdmlzdWFsaXphdGlvbnMtNDA1MTQ2MTIzLmpwZw" width="100%" alt="">
-
+  <img src="https://imgs.search.brave.com/SIMvGfDHha-EB33bYYp_v1M4licuMDZ1Qsdv9dys4O4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aHVtYnMuZHJlYW1zdGltZS5jb20vYi9pbGx1c3RyYXRpb24teW91bmctbWFuLWNvZGluZy1sYXRlLW5pZ2h0LWZyb250LXR3by1jb21wdXRlci1zY3JlZW5zLWZpbGxlZC1jb2RlLWRhdGEtdmlzdWFsaXphdGlvbnMtNDA1MTQ2MTIzLmpwZw" width="100%" alt="banner"/>
 </p>
 
 <h1 align="center">Hi, I'm Ankit 👋</h1>
+
 <p align="center">
-  A passionate <strong>Full-Stack Developer</strong> & <strong>AI Enthusiast</strong> turning ideas into reality. I love building projects that make an impact and exploring cutting-edge technologies.
+  Full-Stack Developer | Java & Spring Boot Learner | AIML Enthusiast  
 </p>
 
----
-
-## 🌱 Currently Learning
-- Advanced **React & Node.js**
-- **AI & Machine Learning Integrations**
-- Efficient **Algorithms & Data Structures**
-
----
-
-## 🛠️ Tech Stack
-<p align="left">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
----
-
-
-
-## 📫 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Ankit871331">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  I enjoy building real-world projects, solving problems with code, and learning systems that scale.
 </p>
 
+---
+
+## ⚙️ Tech Stack
+
+**Frontend**
+- HTML, CSS, JavaScript, React  
+
+**Backend**
+- Java, Spring Boot (learning), Node.js basics  
+
+**Database**
+- MySQL, MongoDB  
+
+**Others**
+- Git & GitHub, REST APIs, Netlify
+
+---
+
+## 🚀 What I'm Focused On
+
+- Building production-level full-stack projects  
+- Strengthening Java + Spring Boot for backend roles  
+- Learning system design fundamentals  
+- Improving problem solving (DSA basics)
+
+---
+
+## 🧠 Projects
+
+- 🧾 **ChikitsAI Rx Reader**  
+  AI-based prescription reader using OCR  
+  👉 https://chikits-ai.netlify.app/
+
+---
+
+## 🎯 Goal
+
+To become a strong backend/full-stack developer and get placed in a product-based company.
+
+---
+
+## 📫 Connect
+
+- GitHub: https://github.com/Ankit871331  
+- LinkedIn: add your link  
+- Email: add your email  
