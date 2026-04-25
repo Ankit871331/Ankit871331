@@ -44,7 +44,7 @@ HTML • CSS • DOM
 Spring Boot • REST APIs  
 
 **Tools**  
-Git • GitHub • :contentReference[oaicite:1]{index=1}  
+Git • GitHub • Postman 
 
 ---
 
