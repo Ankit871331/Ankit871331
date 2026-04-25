@@ -1,46 +1,60 @@
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ankit-github" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ankit871331" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Ankit</h1>
-<h3 align="center">Java Developer | Web Developer | Building Real-World Projects</h3>
+<h3 align="center">Java Backend Developer in Progress | Building Real-World Solutions</h3>
 
 ---
 
-## 🧑‍🦱 About Me  
+## 🧑 About Me  
 
-I’m Ankit, a developer focused on building **practical and real-world solutions**, not just tutorial projects.  
+I’m not just learning tech — I’m focused on **building useful systems that solve real problems**.  
 
-- 🔭 Currently working on improving my **Java + Backend Development skills**  
-- 🌱 Learning **Spring Boot, SQL, and System Design**  
-- 🧠 Exploring **AI integration in web apps**  
-- 💡 Strong focus on **clean code and scalable logic**  
-- ⚡ I believe in *building projects that actually solve problems*  
-
----
-
-## 💻 Tech Stack  
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)  
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)  
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7)  
+- 🔭 Currently focused on **Java + Spring Boot (Backend Development)**  
+- 🧱 Learning how to build **scalable APIs & real-world systems**  
+- 🤖 Exploring **AI integration in web applications**  
+- 💡 I prefer **depth over hype** — fewer tools, stronger understanding  
+- ⚡ Goal: Become a **job-ready backend developer**  
 
 ---
 
-## 💪 Featured Project  
+## 🚀 What I’m Building  
 
-### 👩‍⚕️ ChikitsAI – Rx Reader  
-👉 Converts handwritten medical prescriptions into readable text using OCR  
+### 👨‍⚕️ ChikitsAI – Rx Reader  
+👉 Converts handwritten medical prescriptions into readable text  
 
-- Built using JavaScript + :contentReference[oaicite:0]{index=0}  
-- Solves real-world problem of unreadable prescriptions  
-- Focused on accessibility and usability  
+- Integrated OCR using :contentReference[oaicite:0]{index=0}  
+- Focused on solving real-world readability issues  
+- Built fully on frontend (next step: backend upgrade)  
 
 🔗 Live: https://chikits-ai.netlify.app/  
+
+---
+
+## 🛠️ Tech I Actually Use  
+
+**Languages & Core**  
+Java • JavaScript • SQL  
+
+**Frontend**  
+HTML • CSS • DOM  
+
+**Backend (Learning)**  
+Spring Boot • REST APIs  
+
+**Tools**  
+Git • GitHub • :contentReference[oaicite:1]{index=1}  
+
+---
+
+## 📈 Current Focus  
+
+Right now I’m working on:  
+
+- Building a **full-stack version of ChikitsAI**  
+- Learning **API design + database integration**  
+- Strengthening **problem-solving (DSA)**  
 
 ---
 
@@ -56,10 +70,10 @@ I’m Ankit, a developer focused on building **practical and real-world solution
 ## 🌐 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](YOUR_LINKEDIN)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankit871331@gmail.com)  
 
 ---
 
 ## ⚡ Developer Mindset  
 
-> I don’t just learn technologies — I build solutions that solve real problems.
+> I don’t aim to learn everything — I aim to build things that actually matter.
