@@ -1,60 +1,65 @@
-<p align="center">
-  <img src="https://imgs.search.brave.com/SIMvGfDHha-EB33bYYp_v1M4licuMDZ1Qsdv9dys4O4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aHVtYnMuZHJlYW1zdGltZS5jb20vYi9pbGx1c3RyYXRpb24teW91bmctbWFuLWNvZGluZy1sYXRlLW5pZ2h0LWZyb250LXR3by1jb21wdXRlci1zY3JlZW5zLWZpbGxlZC1jb2RlLWRhdGEtdmlzdWFsaXphdGlvbnMtNDA1MTQ2MTIzLmpwZw" width="100%" alt="banner"/>
-</p>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ankit-github" />
+</div>
 
-<h1 align="center">Hi, I'm Ankit 👋</h1>
-
-<p align="center">
-  Full-Stack Developer | Java & Spring Boot Learner | AIML Enthusiast  
-</p>
-
-<p align="center">
-  I enjoy building real-world projects, solving problems with code, and learning systems that scale.
-</p>
+<h1 align="center">Hi 👋, I'm Ankit</h1>
+<h3 align="center">Java Developer | Web Developer | Building Real-World Projects</h3>
 
 ---
 
-## ⚙️ Tech Stack
+## 🧑‍🦱 About Me  
 
-**Frontend**
-- HTML, CSS, JavaScript, React  
+I’m Ankit, a developer focused on building **practical and real-world solutions**, not just tutorial projects.  
 
-**Backend**
-- Java, Spring Boot (learning), Node.js basics  
-
-**Database**
-- MySQL, MongoDB  
-
-**Others**
-- Git & GitHub, REST APIs, Netlify
+- 🔭 Currently working on improving my **Java + Backend Development skills**  
+- 🌱 Learning **Spring Boot, SQL, and System Design**  
+- 🧠 Exploring **AI integration in web apps**  
+- 💡 Strong focus on **clean code and scalable logic**  
+- ⚡ I believe in *building projects that actually solve problems*  
 
 ---
 
-## 🚀 What I'm Focused On
+## 💻 Tech Stack  
 
-- Building production-level full-stack projects  
-- Strengthening Java + Spring Boot for backend roles  
-- Learning system design fundamentals  
-- Improving problem solving (DSA basics)
-
----
-
-## 🧠 Projects
-
-- 🧾 **ChikitsAI Rx Reader**  
-  AI-based prescription reader using OCR  
-  👉 https://chikits-ai.netlify.app/
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)  
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)  
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7)  
 
 ---
 
-## 🎯 Goal
+## 💪 Featured Project  
 
-To become a strong backend/full-stack developer and get placed in a product-based company.
+### 👩‍⚕️ ChikitsAI – Rx Reader  
+👉 Converts handwritten medical prescriptions into readable text using OCR  
+
+- Built using JavaScript + :contentReference[oaicite:0]{index=0}  
+- Solves real-world problem of unreadable prescriptions  
+- Focused on accessibility and usability  
+
+🔗 Live: https://chikits-ai.netlify.app/  
 
 ---
 
-## 📫 Connect
+## 📊 GitHub Stats  
 
-- GitHub: https://github.com/Ankit871331  
-- LinkedIn: add your link  
-- Email: add your email  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankit871331&show_icons=true&theme=dark" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=ankit871331&theme=dark" height="180"/>
+</div>
+
+---
+
+## 🌐 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](YOUR_LINKEDIN)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)  
+
+---
+
+## ⚡ Developer Mindset  
+
+> I don’t just learn technologies — I build solutions that solve real problems.
