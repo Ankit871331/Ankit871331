@@ -11,18 +11,18 @@
 
 I’m not just learning tech — I’m focused on **building useful systems that solve real problems**.  
 
-- 🔭 Currently focused on **Java + Spring Boot (Backend Development)**  
-- 🧱 Learning how to build **scalable APIs & real-world systems**  
-- 🤖 Exploring **AI integration in web applications**  
-- 💡 I prefer **depth over hype** — fewer tools, stronger understanding  
-- ⚡ Goal: Become a **job-ready backend developer**  
+-  Currently focused on **Java + Spring Boot (Backend Development)**  
+-  Learning how to build **scalable APIs & real-world systems**  
+-  Exploring **AI integration in web applications**  
+-  I prefer **depth over hype** — fewer tools, stronger understanding  
+-  Goal: Become a **job-ready backend developer**  
 
 ---
 
-## 🚀 What I’m Building  
+## 🏗️ What I’m Building  
 
 ### 👨‍⚕️ ChikitsAI – Rx Reader  
-👉 Converts handwritten medical prescriptions into readable text  
+### Converts handwritten medical prescriptions into readable text  
 
 - Integrated OCR using :contentReference[oaicite:0]{index=0}  
 - Focused on solving real-world readability issues  
@@ -32,7 +32,7 @@ I’m not just learning tech — I’m focused on **building useful systems that
 
 ---
 
-## 🛠️ Tech I Actually Use  
+## ⚙️ Tech I Actually Use  
 
 **Languages & Core**  
 Java • JavaScript • SQL  
@@ -55,6 +55,11 @@ Right now I’m working on:
 - Building a **full-stack version of ChikitsAI**  
 - Learning **API design + database integration**  
 - Strengthening **problem-solving (DSA)**  
+
+## 📊 GitHub Stats
+---
+![LeetCode Stats](https://leetcard.jacoblin.cool/Ankit_orig?ext=heatmap)
+
 
 ---
 
