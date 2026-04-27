@@ -58,15 +58,11 @@ Right now I’m working on:
 
 ## 📊 GitHub Stats
 ---
-![LeetCode Stats](https://leetcard.jacoblin.cool/Ankit_orig?ext=heatmap)
-
-
----
-
-## 📊 GitHub Stats  
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankit871331&show_icons=true&theme=dark" height="180"/>
+<img src="https://leetcard.jacoblin.cool/Ankit_orig?ext=heatmap" height="280"/>  <br>
+
+
+  <img src="https://github-readme-stats.vercel.app/api?username=ankit871331&show_icons=true&theme=dark" height="180"/>  <br>
   <img src="https://streak-stats.demolab.com?user=ankit871331&theme=dark" height="180"/>
 </div>
 
