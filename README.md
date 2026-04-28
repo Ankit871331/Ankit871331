@@ -50,7 +50,7 @@ Git • GitHub • Postman
 
 ---
 
-## 📈 Current Focus  
+## 👀 Current Focus  
 
 Right now I’m working on:  
 
@@ -77,6 +77,7 @@ Right now I’m working on:
 
 ---
 
-## ⚡ Developer Mindset  
+
+## 🧑🏻‍💻 Developer Mindset  
 
 > I don’t aim to learn everything — I aim to build things that actually matter.
