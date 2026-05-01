@@ -13,7 +13,7 @@
 
 I’m not just learning tech — I’m focused on **building useful systems that solve real problems**.  
 
--  Currently focused on **Java + Spring Boot (Backend Development)**  
+-  Currently focused on ** Spring Boot (Backend Development)**  
 -  Learning how to build **scalable APIs & real-world systems**  
 -  Exploring **AI integration in web applications**  
 -  I prefer **depth over hype** — fewer tools, stronger understanding  
