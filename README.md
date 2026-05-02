@@ -1,5 +1,8 @@
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Ankit,%20Java%20Developer%20👨🏽‍💻%&width=1000&height=110)](https://github.com/Akshay090/svg-banners)
+
+
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ankit871331" />
 </div>
@@ -64,7 +67,7 @@ Right now I’m working on:
 <img src="https://leetcard.jacoblin.cool/Ankit_orig?ext=heatmap" height="280"/>  <br>
 
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ankit871331&show_icons=true&theme=dark" height="180"/>  <br>
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ankit871331&show_icons=true&theme=dark) <br>
   <img src="https://streak-stats.demolab.com?user=ankit871331&theme=dark" height="180"/>
 </div>
 
