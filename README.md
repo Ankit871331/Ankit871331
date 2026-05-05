@@ -43,10 +43,10 @@ I’m not just learning tech — I’m focused on **building useful systems that
 Java • JavaScript • SQL  
 
 **Frontend**  
-HTML • CSS • DOM  
+HTML • CSS • JavaScript  
 
 **Backend (Learning)**  
-Spring Boot • REST APIs  
+• Spring Boot • REST APIs  
 
 **Tools**  
 Git • GitHub • Postman 
@@ -57,7 +57,7 @@ Git • GitHub • Postman
 
 Right now I’m working on:  
 
-- Building a **full-stack version of ChikitsAI**  
+- Building a **full-stack version of aiMail**  
 - Learning **API design + database integration**  
 - Strengthening **problem-solving (DSA)**  
 
