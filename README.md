@@ -75,8 +75,10 @@ Right now I’m working on:
 
 ## 🌐 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](YOUR_LINKEDIN)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankit871331@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://portfolio-ankit-orig.netlify.app/)  
+[![LinkedIn](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=linkedin&logoColor=white)](https://portfolio-ankit-orig.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankit871331@gmail.com) 
+
 
 ---
 
