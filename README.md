@@ -1,88 +1,74 @@
-
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Ankit,%20Java%20Developer%20👨🏽‍💻%&width=1000&height=110)](https://github.com/Akshay090/svg-banners)
-
-
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ankit871331" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Ankit</h1>
-<h3 align="center">Java Backend Developer in Progress | Building Real-World Solutions</h3>
+<h3 align="center">Java Backend Developer | Final Year Student, Class of 2026</h3>
 
 ---
 
-## 🧑 About Me  
+## 🧑 About Me
 
-I’m not just learning tech — I’m focused on **building useful systems that solve real problems**.  
+Final-year CS student, actively applying for **Junior Java Developer** roles.
+My resume says "Studying". My GitHub says "Building."
 
--  Currently focused on ** Spring Boot (Backend Development)**  
--  Learning how to build **scalable APIs & real-world systems**  
--  Exploring **AI integration in web applications**  
--  I prefer **depth over hype** — fewer tools, stronger understanding  
--  Goal: Become a **job-ready backend developer**  
-
----
-
-## 🏗️ What I’m Building  
-
-### 👨‍⚕️ ChikitsAI – Rx Reader  
-### Converts handwritten medical prescriptions into readable text  
-
-- Integrated OCR using :contentReference[oaicite:0]{index=0}  
-- Focused on solving real-world readability issues  
-- Built fully on frontend (next step: backend upgrade)  
-
-🔗 Live: https://chikits-ai.netlify.app/  
+- 🔭 **Right now:** I write **Spring Boot** code every day. No theory. Only APIs.
+- 🌱 **Current depth:** REST APIs, Spring Data JPA, MySQL, Postman testing.
+- ⚡ **Job goal:** Contribute to a production backend immediately after graduation.
+- 📍 **Location:** Ready to relocate for the right role.
 
 ---
 
-## ⚙️ Tech I Actually Use  
+## 🏗️ My Best Proof of Work
 
-**Languages & Core**  
-Java • JavaScript • SQL  
+### 1. aiEmail
 
-**Frontend**  
-HTML • CSS • JavaScript  
-
-**Backend (Learning)**  
-• Spring Boot • REST APIs  
-
-**Tools**  
-Git • GitHub • Postman 
+- **Tech:** Spring Boot, Spring Data JPA, MySQL, Maven, Postman
+- **What it does:** AI Email is a real-world productivity tool that transforms simple prompts into professional, well-structured emails using AI.
+- **Proof:** (https://github.com/Ankit871331/aiMail)
+- **Status:** Live on my local machine / deploying URL comming soon..
 
 ---
 
-## 👀 Current Focus  
+## 👨‍⚕️ Side Project
+### ChikitsAI – Rx Reader (Frontend Focus)
 
-Right now I’m working on:  
+- Helps read handwritten prescriptions using OCR.
+- **Why it's here:** Shows I can finish things and use JavaScript, even though my main focus is Java backend.
+- 🔗 Live: https://chikits-ai.netlify.app/
 
-- Building a **full-stack version of aiMail**  
-- Learning **API design + database integration**  
-- Strengthening **problem-solving (DSA)**  
-
-## 📊 GitHub Stats
 ---
+
+## ⚙️ Tech I Can Use On Day One
+
+**Backend (Interview Ready)**
+Java • Spring Boot • Spring Data JPA • REST APIs • Maven • MySQL • Postman
+
+**Also comfortable with**
+Git • GitHub • HTML/CSS/JS
+
+---
+
+## 📊 GitHub Stats (Consistency > Streaks)
+
 <div align="center">
-<img src="https://leetcard.jacoblin.cool/Ankit_orig?ext=heatmap" height="280"/>  <br>
-
-
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ankit871331&show_icons=true&theme=dark) <br>
-  <img src="https://streak-stats.demolab.com?user=ankit871331&theme=dark" height="180"/>
+  <img src="https://leetcard.jacoblin.cool/Ankit_orig?ext=heatmap" height="250"/> <br>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ankit871331&show_icons=true&theme=dark" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=ankit871331&theme=dark" height="150"/>
 </div>
 
 ---
 
-## 🌐 Connect With Me  
+## 📫 Direct Contact (Faster than LinkedIn)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://portfolio-ankit-orig.netlify.app/)  
-[![LinkedIn](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=linkedin&logoColor=white)](https://portfolio-ankit-orig.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankit871331@gmail.com) 
-
+[![Email](https://img.shields.io/badge/Email%20me-D14836?logo=gmail&logoColor=white)](mailto:ankit871331@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-%230077B5?logo=linkedin)](https://www.linkedin.com/in/your-real-linkedin-url/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Site-black?logo=vercel)](https://portfolio-ankit-orig.netlify.app/)
 
 ---
 
+## 🧠 My Rule (No hype)
 
-## 🧑🏻‍💻 Developer Mindset  
-
-> I don’t aim to learn everything — I aim to build things that actually matter.
+> One finished Spring Boot app > ten unfinished courses.
