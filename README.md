@@ -14,7 +14,7 @@
 Final-year CS student, actively applying for **Junior Java Developer** roles.
 My resume says "Studying". My GitHub says "Building."
 
-- 🔭 **Right now:** I write **Spring Boot** code every day. No theory. Only APIs.
+- 🔭 **Right now:** I write **Spring Boot** code every day. Not only theory.
 - 🌱 **Current depth:** REST APIs, Spring Data JPA, MySQL, Postman testing.
 - ⚡ **Job goal:** Contribute to a production backend immediately after graduation.
 - 📍 **Location:** Ready to relocate for the right role.
