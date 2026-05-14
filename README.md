@@ -25,7 +25,7 @@ My resume says "Studying". My GitHub says "Building."
 
 ### 1. aiEmail
 
-- **Tech:** Spring Boot, Spring Data JPA, MySQL, Maven, Postman
+- **Tech:** Spring Boot, Spring Data JPA, MySQL, Postman
 - **What it does:** AI Email is a real-world productivity tool that transforms simple prompts into professional, well-structured emails using AI.
 - **Proof:** (https://github.com/Ankit871331/aiMail)
 - **Status:** Live on my local machine / deploying URL comming soon..
